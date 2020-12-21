@@ -1,4 +1,4 @@
-package first;
+package JavaStudy;
 
 public class SwitchExam {
 

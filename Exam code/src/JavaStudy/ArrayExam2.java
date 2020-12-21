@@ -1,4 +1,4 @@
-package first;
+package JavaStudy;
 
 public class ArrayExam2 {
 	public static void main(String[] args) {
